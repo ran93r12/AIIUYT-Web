@@ -25,11 +25,7 @@
 **Language:** Python
 
 
-## Source
 
-Here are some static features, page styles were extracted from colorlib
-
-[Gentelella](https://colorlib.com/polygon/gentelella/)
 
 
 ## Features
@@ -37,3 +33,12 @@ Here are some static features, page styles were extracted from colorlib
 - Dynamic Results
 - Computation work
 - Scalability
+
+
+
+
+## Source
+
+Here are some static features, page styles were extracted from colorlib
+
+[Gentelella](https://colorlib.com/polygon/gentelella/)
